@@ -1,3 +1,4 @@
+# Whatsapp Bot using Twilio 
 The condition of ongoing pandemic of Covid-19 is horrible in India. With the ongoing crisis, India is not lagging behind because of the lack of resources but it is the lack of information of resources that has resulted in hazardous outcomes. People are dying here just because they didn’t have proper information how to get required covid resources (eg. oxygen, medicines, beds etc) at the instance of panic situation that has caused a lot of hiatus in providing health services to the needy. There is lack of these resources at some locations whereas at some cities these can be found in abundance. 
 
 We are the group of student working across communities to help connect relevant members based on broad objectives or specific needs.
