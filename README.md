@@ -5,7 +5,7 @@ We have created a database of verified resources and our volunteers managed it e
 
 We are using Twilio Programmable message  service for WhatsApp API for our initiative to work. WhatsApp is the most popular application among people in India to connect and share information with each other.
 
-Auto messsage: #Covid-19 Resource Bot
+# Auto messsage: Covid-19 Resource Bot
 
 Hello!🙌
 I'm Covid-19 Resource Bot. 🤖
